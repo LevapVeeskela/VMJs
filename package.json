@@ -1,0 +1,19 @@
+{
+  "name": "vmjs",
+  "version": "1.0.0",
+  "description": "Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevapVeeskela/VMJs.git"
+  },
+  "author": "VM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevapVeeskela/VMJs/issues"
+  },
+  "homepage": "https://github.com/LevapVeeskela/VMJs#readme"
+}
