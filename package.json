@@ -4,7 +4,9 @@
   "description": "Course",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+    "start": "webpack",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/LevapVeeskela/VMJs/issues"
   },
-  "homepage": "https://github.com/LevapVeeskela/VMJs#readme"
+  "homepage": "https://github.com/LevapVeeskela/VMJs#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
 }
